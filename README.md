@@ -22,4 +22,6 @@ I am a third-year software engineering student at Auckland University of Technol
 <br><br><br><br>
 
 ## Projects
-
+<div style="diplay:flex">
+  <img width="24%" src = "https://github.com/HazeemHussain/HazeemHussain/blob/main/Main%20page%20UI%20design%20(Updated).png?raw=true">
+</div>
