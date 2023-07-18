@@ -23,6 +23,6 @@ I am a third-year software engineering student at Auckland University of Technol
 
 ## Projects
   [<img width="24%" align = "left" alt = "Bazaar Bargains" src = "https://github.com/HazeemHussain/HazeemHussain/blob/main/Main%20page%20UI%20design%20(Updated).png?raw=true"/>](https://github.com/HazeemHussain/Bazaar-Bargains)
-[<img width="500" align = "left" alt = "Hotel Management System" src="https://github.com/HazeemHussain/HazeemHussain/assets/114074054/279ff6d5-8c57-4f17-a9dd-9fe7ca61a323"
+[<img width="500" align = "left" alt = "Hotel Management System" src="https://github.com/HazeemHussain/HazeemHussain/blob/main/Hotel%20Management%20System.png?raw=true"
 />](https://github.com/HazeemHussain/Hotel-Management-System)
 
