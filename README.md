@@ -8,7 +8,7 @@ Linkedin: [Hazeem Hussain](https://www.linkedin.com/in/hazeem-hussain-15134b156/
 
 
 ## 🎓 Study
-I am a third-year software engineering student at Auckland University of Technology, I am enthusiastic about developing impactful applications that improve user experiences.
+I am a final-year software engineering student at Auckland University of Technology, I am enthusiastic about developing impactful applications that improve user experiences.
 
 ## 💻 Languages
 <img align = "left" alt = "Java" height = "70px" src = "https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" />
